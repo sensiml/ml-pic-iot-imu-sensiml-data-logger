@@ -5,10 +5,9 @@ This repository contains firmware for streaming up to 6-axes IMU data over UART 
 
 This project is a port of the [SAMD21 ML Eval Kit data logger](https://github.com/MicrochipTech/ml-samd21-iot-imu-data-logger) maintained on github; please see that repository for more detail and instructions. Below are a summary of the functional differences between the 2 projects:
 
-* Uses MPLAB Code Configurator for code generation instead of Harmony
 
 ## Hardware Used
-* dsPIC33CK256MP508 Curiosity development board ([DM330030](https://www.microchip.com/Developmenttools/ProductDetails/DM330030))
+* PIC-IOT WG DEVELOPMENT BOARD ([DM330030](https://www.microchip.com/en-us/development-tool/AC164164))
 * IMU 2 click board (https://www.mikroe.com/6dof-imu-2-click)
 
 ## Software Used
@@ -17,7 +16,7 @@ This project is a port of the [SAMD21 ML Eval Kit data logger](https://github.co
 * MPLAB® Code Configurator (https://www.microchip.com/mcc)
 
 ## Related Documentation
-* dsPIC33CK256MP508 [Product Family Page](https://www.microchip.com/wwwproducts/en/dsPIC33CK256MP508)
+* PIC24FJ128GA705 [Product Family Page](https://www.microchip.com/en-us/product/PIC24FJ128GA705)
 
 
 # Firmware Operation
