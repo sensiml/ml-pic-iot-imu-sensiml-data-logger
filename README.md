@@ -7,7 +7,7 @@ This project is a port of the [SAMD21 ML Eval Kit data logger](https://github.co
 
 
 ## Hardware Used
-* PIC-IOT WG DEVELOPMENT BOARD ([DM330030](https://www.microchip.com/en-us/development-tool/AC164164))
+* PIC-IOT WG DEVELOPMENT BOARD ([AC164164](https://www.microchip.com/en-us/development-tool/AC164164))
 * IMU 2 click board (https://www.mikroe.com/6dof-imu-2-click)
 
 ## Software Used
